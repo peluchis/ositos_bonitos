@@ -1,0 +1,28 @@
+html {
+background-color:#ffd2df;
+font-faily:"Opens Sans", sans - serif ;}
+h1{
+font-size : 60 px;
+text-aling : center ;
+margin : 0;
+padding :20 px;
+} text - shadow : 3px 3px 1px black;
+
+P{
+color:#ad4361;
+width: 500;
+font-size: 16px;
+letter-spacing : 1px;}
+img{
+display: block;
+margin: 0 auto; }
+
+body{
+width: 600px;
+margin: 0 auto;
+background-color:#ad4361;
+padding:0 20px 20px;
+border: 5px solid black;
+}
+letter-spacing: 1px;}
+
