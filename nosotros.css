@@ -1,0 +1,46 @@
+* {
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffd1e8; /* fondo general rosa pastel */
+  margin: 0;
+  padding: 0;
+}
+
+#encabezado { 
+  background-color: #da457c;
+  text-align: center;
+  font-size: 35px;
+  color: #ddb5d8;
+  height: auto;
+}
+
+.navbar {
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  font-size: 18px;
+  list-style-type: none;
+  height: auto;
+  background-color: #ffc8f8;
+}
+
+#columna_principal {
+  float: left;     
+  width: 70%;
+  height: 700px;  
+  background-color: #fdd3f8;
+}
+
+#columna_publicidad {
+  float: left; 
+  width: 30%; 
+  height: 700px;
+  background-color: #ffd1e8; /* ya es rosa pastel también */
+}
+
+#columna_publicidad img {
+  width: 100%;
+  height: au
